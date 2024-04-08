@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Dependencies
-weather/requirements.txt
+requirements.txt
 
 # AWS SAM specific
 .sam/
