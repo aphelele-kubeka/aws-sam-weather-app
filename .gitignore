@@ -4,7 +4,17 @@ __pycache__/
 *$py.class
 
 # Dependencies
-requirements.txt
+weather/numpy/
+weather/pandas/
+weather/requests/
+weather/boto/
+weather/certifi/
+weather/charset_normalizer/
+weather/dateutil/
+weather/idna/
+weather/numpy.libs/
+weather/pytz/
+weather/urllib3/
 
 # AWS SAM specific
 .sam/

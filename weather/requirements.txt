@@ -1,0 +1,4 @@
+requests
+Boto
+Pandas
+Numpy
