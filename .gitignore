@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependencies
+weather/requirements.txt
+
+# AWS SAM specific
+.sam/
+.sam.local/
+
+# AWS SAM build artifacts
+.sam/build/
+
+# AWS SAM packaged artifacts
+.sam/packaged-template.yaml
+.sam/packaged.yaml
+
+# OS generated files
+.DS_Store
+Thumbs.db
